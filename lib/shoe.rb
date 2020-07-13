@@ -7,5 +7,3 @@ attr_accessor :brand
 
 
 end
-
-
